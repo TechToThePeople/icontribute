@@ -23,7 +23,9 @@ We are trying to widen our Financial Support Base, directly on the dashboard. Th
     <ver>4.3</ver>
   </compatibility>
   <comments>
+To learn more about it:
 http://civicrm.org/blogs/dave-greenberg/widening-our-financial-support-base-or-%E2%80%A6-if-you-dont-ask-you-dont-get
+</comments>
   <civix>
     <namespace>CRM/Icontribute</namespace>
   </civix>
